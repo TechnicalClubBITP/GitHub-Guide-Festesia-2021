@@ -53,7 +53,7 @@ Also the winners will be awarded for their participation and every participant w
 
 - Now open the folder where you have your HTML, CSS && JS file save ( Make sure that you have a seperate folder for your project otherwise it will create problem ).
 ```
-For Example if I have my HTML, CSS and JS in E: Drive in folder name XORDIUM then i will go inside that folder
+For Example if I have my HTML, CSS and JS in E: Drive in folder name XORDIUM then i'll go inside that folder
 ```
 
 - Right click and open 'Refresh' Pop-up inside that folder

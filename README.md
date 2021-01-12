@@ -26,7 +26,7 @@ Also the winners will be awarded for their participation and every participant w
 
 ## Installation steps with pictures 🚀
 
-- When you are installing git bash in your pc don't make any changes in the installation (Except ONE which is mentioned below in the picture)
+- After downloading When you are installing git bash in your pc don't make any changes in the installation (Except ONE which is mentioned below in the picture)
 ---
 ![Step](https://raw.githubusercontent.com/TechnicalClubBITP/GitHub-Guide-Festesia-2021/main/Screenshot%20(107).png)
 

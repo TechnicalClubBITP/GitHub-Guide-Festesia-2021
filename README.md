@@ -26,21 +26,10 @@ Also the winners will be awarded for their participation and every participant w
 
 ## Installation steps with pictures 🚀
 
-Just follow what is shown in Pictures
+- When you are installing git bash in your pc don't make any changes in the installation (Except ONE which is mentioned below in the picture)
 ---
 ![Step-1](https://drive.google.com/file/d/14vO89J5Y9gqsX-aSi_8QO8KMtoNa-cnW/view?usp=sharing)
-![Step-2](https://drive.google.com/file/d/1oL1jALVa7JUy84Td4f7W0_IsHVi1geX-/view?usp=sharing)
-![Step-3](https://drive.google.com/file/d/1qCrC4i3GqWCrgUBDuQ3Fsfp--wWMbRIB/view?usp=sharing)
-![Step-4](https://drive.google.com/file/d/1D9qCvif8ouDhBXLL-kHjrFcUKaMcaNdV/view?usp=sharing)
-![Step-5](https://drive.google.com/file/d/1MHI-fGUA3hPkZCYtrEGZ932ehQE_CUMn/view?usp=sharing)
-![Step-6](https://drive.google.com/file/d/1ZYReQyJAoDwAoorii8oDVRY4E-WrKVxK/view?usp=sharing)
-![Step-7](https://drive.google.com/file/d/1DoD8cF4eP66WQP3QX_kXNouhBugtUyTC/view?usp=sharing)
-![Step-8](https://drive.google.com/file/d/1AtMQhdWBERPHKQ9Meu-vNJZnBhW7sXDz/view?usp=sharing)
-![Step-9](https://drive.google.com/file/d/1GVLlVvCgR6TpezgGBodJLCz_TbipHyc8/view?usp=sharing)
-![Step-10](https://drive.google.com/file/d/14vO89J5Y9gqsX-aSi_8QO8KMtoNa-cnW/view?usp=sharing)
-![Step-11](https://drive.google.com/file/d/14vO89J5Y9gqsX-aSi_8QO8KMtoNa-cnW/view?usp=sharing)
-![Step-12](https://drive.google.com/file/d/14vO89J5Y9gqsX-aSi_8QO8KMtoNa-cnW/view?usp=sharing)
-![Step-13](https://drive.google.com/file/d/14vO89J5Y9gqsX-aSi_8QO8KMtoNa-cnW/view?usp=sharing)
+
 
 ## Creating Repository 🏁
 

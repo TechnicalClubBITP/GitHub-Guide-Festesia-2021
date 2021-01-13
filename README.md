@@ -9,8 +9,8 @@ Projects under Festesia is based on the platform of web development which will b
 
 XorDium is a Technical Festival for Innovative Engineers'. The main theme of Xordium is Engineers’ Paradise (Science Exhibition ) and Eureka! (PaperPresentation).
 But this time we are here with few new and exciting events like
-(1). Festesia for Web Development
-(2). E-Sports
+- (1). Festesia for Web Development
+- (2). E-Sports
 Also the winners will be awarded for their participation and every participant will get certification. The prize distribution ceremony will be held on 19th January.
 
 

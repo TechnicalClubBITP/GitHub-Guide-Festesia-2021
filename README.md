@@ -1,20 +1,20 @@
-# GitHub-Guide-Festesia-2021 🛰
+# GitHub-Guide-Festivia-2021 🛰
 ## Github Guide to Create Repository: 🎏
 
 
-Projects under Festesia is based on the platform of web development which will be a website developed for amateurs and will also help people entering into codex that will make their tasks easier...
+Projects under Festivia is based on the platform of web development which will be a website developed for amateurs and will also help people entering into codex that will make their tasks easier...
 
 
  ## Overview 🎃
 
 XorDium is a Technical Festival for Innovative Engineers'. The main theme of Xordium is Engineers’ Paradise (Science Exhibition ) and Eureka! (PaperPresentation).
 But this time we are here with few new and exciting events like
-- (1). Festesia for Web Development
+- (1). Festivia for Web Development
 - (2). E-Sports
-Also the winners will be awarded for their participation and every participant will get certification. The prize distribution ceremony will be held on 19th January.
+Also the winners will be awarded for their participation and every participant will get certification. 
 
 
- ### This project is under Festesia (Xordium 2021) open source program .🎉🎊
+ ### This project is under Festivia (Xordium 2021) open source program .🎉🎊
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 

@@ -57,7 +57,7 @@ For Example if I have my HTML, CSS and JS in E: Drive in folder name XORDIUM the
 ```
 
 - Right click and open 'Refresh' Pop-up inside that folder
-- Select Bash Here option
+- Select "Bash Here" option
 
 
 ## Inside Bash Terminal 

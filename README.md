@@ -58,6 +58,7 @@ For Example if I have my HTML, CSS and JS in E: Drive in folder name XORDIUM the
 
 - Right click and open 'Refresh' Pop-up inside that folder
 - Select "Bash Here" option
+![Step](https://raw.githubusercontent.com/TechnicalClubBITP/GitHub-Guide-Festesia-2021/main/Screenshot%20(129).png)
 
 
 ## Inside Bash Terminal 

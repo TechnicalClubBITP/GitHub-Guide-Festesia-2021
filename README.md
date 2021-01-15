@@ -1,4 +1,4 @@
-# GitHub-Guide-Festivia-2021 🛰
+# GitHub-Guide-Festivia 🛰
 ## Github Guide to Create Repository: 🎏
 
 
@@ -14,7 +14,7 @@ But this time we are here with few new and exciting events like
 Also the winners will be awarded for their participation and every participant will get certification. 
 
 
- ### This project is under Festivia (Xordium 2021) open source program .🎉🎊
+ ### This project is under Festivia (Xordium) open source program .🎉🎊
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
